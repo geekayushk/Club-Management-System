@@ -29,7 +29,7 @@ if any query you can contact me at any time at linkedIn :- https://www.linkedin.
 If it is helpfull for you then, please give it a star
 
 
-![Homepage] (./readmeIMG/image.png)
-![Clubs] (./readmeIMG/image-1.png)
-![Portfolio] (./readmeIMG/image-2.png)
-![Footer] (./readmeIMG/image-3.png)
+![Homepage](./readmeIMG/image.png)
+![Clubs](./readmeIMG/image-1.png)
+![Portfolio](./readmeIMG/image-2.png)
+![Footer](./readmeIMG/image-3.png)
