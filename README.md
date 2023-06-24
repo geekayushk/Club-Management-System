@@ -27,3 +27,9 @@ step 7:- admin username :-admin and password : admin
 if any query you can contact me at any time at linkedIn :- https://www.linkedin.com/in/ayush-kumar-72a6231b6/
 
 If it is helpfull for you then, please give it a star
+
+
+![Homepage](image.png)
+![Clubs](image-1.png)
+![Portfolio](image-2.png)
+![Footer](image-3.png)
